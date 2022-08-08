@@ -1,0 +1,17 @@
+.dropdown {
+  padding: 5px 12px;
+  display: flex;
+  flex-direction: column;
+
+}
+
+.list_item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.image {
+  width: 30px;
+}
+

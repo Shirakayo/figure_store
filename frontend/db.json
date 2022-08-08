@@ -1,0 +1,562 @@
+{
+  "figures": [
+    {
+      "id": "1",
+      "name": "Kazekaoru - Houkago Illustrated by hitomio16 1/6 Complete Figure",
+      "fullName": "Kazekaoru - Houkago Illustrated by hitomio16 1/6 Complete Figure(Pre-order)",
+      "jp_name": "風薫る - 放課後 Illustrated by hitomio拾六 1/6 完成品フィギュア",
+      "imageUrl": "https://img.amiami.com/images/product/main/223/FIGURE-142808.jpg",
+      "company": "Lovely",
+      "category": "1",
+      "status": "Pre-order",
+      "release_date": "Jun-2023",
+      "price": {
+        "jp_price": "23,560",
+        "us_price": "172.69"
+      },
+      "spec": {
+        "scale": "1/6",
+        "size": "Approx. H250mm (including base)"
+      },
+      "copyright": "Lovely/hitomio拾六.All Rights Reserved."
+    },
+    {
+      "id": "2",
+      "name": "Genshin Impact Aether 1/7 Complete Figure",
+      "jp_name": "原神 空 1/7 完成品フィギュア",
+      "imageUrl": "https://img.amiami.com/images/product/main/223/FIGURE-142927.jpg",
+      "category": "2",
+      "status": "Pre-order",
+      "company": "MIHOYO",
+      "release_date": "Apr-2023",
+      "price": {
+        "jp_price": "15,520",
+        "us_price": "113.76"
+      },
+      "spec": {
+        "scale": "1/7",
+        "size": "Approx. H270mm (including base)"
+      },
+      "details": {
+        "sculptor": "Tsukuru Shirahige",
+        "cooperation": "KOTOBUKIYA"
+      },
+      "copyright": "Copyright (C) miHoYo. All Rights Reserved."
+    },
+    {
+      "id": "3",
+      "name": "[Exclusive Sale] Fate/Grand Order Caster/Marie...",
+      "fullName": "[Exclusive Sale] Fate/Grand Order Caster/Marie Antoinette [Summer Queens] 1/8 Complete Figure(Pre-order)",
+      "jp_name": "【限定販売】Fate/Grand Order キャスター/マリー・アントワネット[Summer Queens] 1/8 完成品フィギュア",
+      "imageUrl": "https://img.amiami.com/images/product/main/223/FIGURE-142877.jpg",
+      "category": "1",
+      "company": "Our Treasure",
+      "status": "Pre-order",
+      "release_date": "Dec-2022",
+      "price": {
+        "jp_price": "15,950",
+        "us_price": "119.70"
+      },
+      "spec": {
+        "scale": "1/8",
+        "size": "Approx. H20cm"
+      },
+      "details": {
+        "sculptor": "Hayashida Muneatsu"
+      },
+      "copyright": "TYPE-MOON / FGO PROJECT"
+    },
+    {
+      "id": "4",
+      "name": "KDcolle Re:ZERO -Starting Life in Another World- Ram Bir...",
+      "fullName": "KDcolle Re:ZERO -Starting Life in Another World- Ram Birthday Ver. 1/7 Complete Figure(Pre-order)",
+      "jp_name": "KDcolle Re：ゼロから始める異世界生活 ラム 生誕祭Ver. 1/7 完成品フィギュア",
+      "imageUrl": "https://img.amiami.com/images/product/main/223/FIGURE-142595.jpg",
+      "category": "1",
+      "company": "KADOKAWA",
+      "status": "Pre-order",
+      "release_date": "Sep-2022",
+      "price": {
+        "jp_price": "17,380",
+        "us_price": "130.44"
+      },
+      "spec": {
+        "scale": "1/7",
+        "size": "Approx. H250mm"
+      },
+      "details": {
+        "sculptor": "Akisame"
+      },
+      "copyright": "長月達平・株式会社KADOKAWA刊/Re：ゼロから始める異世界生活製作委員会"
+    },
+    {
+      "id": "5",
+      "name": "Rascal Does Not Dream of Bunny Girl Senpai Mai Sakurajim...",
+      "fullName": "Rascal Does Not Dream of Bunny Girl Senpai Mai Sakurajima -China Dress ver.- 1/7 Complete Figure(Pre-order)",
+      "jp_name": "青春ブタ野郎はバニーガール先輩の夢を見ない 桜島麻衣～チャイナドレスver.～ 1/7 完成品フィギュア",
+      "imageUrl": "https://img.amiami.com/images/product/main/223/FIGURE-143049.jpg",
+      "category": "1",
+      "company": "spiritale",
+      "status": "Pre-order",
+      "release_date": "Dec-2022",
+      "price": {
+        "jp_price": "31,900",
+        "us_price": "239.41"
+      },
+      "spec": {
+        "scale": "1/8",
+        "size": "Approx. H250mm x Approx. W260mm x Approx. D200mm"
+      },
+      "details": {
+        "sculptor": "Fortunation"
+      },
+      "copyright": "2018 HAJIME KAMOSHIDA/KADOKAWA CORPORATION AMW/AOBUTA Project"
+    },
+    {
+      "id": "6",
+      "name": "PRISMA WING The Quintessential Quintuplets Nino",
+      "fullName": "PRISMA WING The Quintessential Quintuplets Nino Nakano 1/7 Complete Figure(Pre-order)",
+      "jp_name": "PRISMA WING 五等分の花嫁 中野二乃 1/7 完成品フィギュア",
+      "imageUrl": "https://img.amiami.com/images/product/main/223/FIGURE-143071.jpg",
+      "category": "1",
+      "company": "Prime 1 Studio",
+      "status": "Pre-order",
+      "release_date": "Aug-2023",
+      "price": {
+        "jp_price": "28,600",
+        "us_price": "214.64"
+      },
+      "spec": {
+        "scale": "1/7",
+        "size": "H17cm, W19cm, D17cm"
+      },
+      "details": {
+        "sculptor": "moineau"
+      },
+      "copyright": "春場ねぎ・講談社/映画「五等分の花嫁」製作委員会"
+    },
+    {
+      "id": "7",
+      "name": "My Teen Romantic Comedy SNAFU. Completion Yukino...",
+      "fullName": "My Teen Romantic Comedy SNAFU. Completion Yukino Yukinoshita & Yui Yuhigahama Ending Ver. 1/7 Complete Figures(Released)",
+      "jp_name": "やはり俺の青春ラブコメはまちがっている。完 雪ノ下雪乃＆由比ヶ浜結衣 エンディングVer. 1/7 完成品フィギュア",
+      "imageUrl": "https://img.amiami.com/images/product/main/212/FIGURE-125987.jpg",
+      "category": "1",
+      "status": "Pre-order",
+      "company": "eStream",
+      "release_date": "Jul-2022",
+      "price": {
+        "jp_price": "39,600",
+        "us_price": "297.20"
+      },
+      "spec": {
+        "scale": "1/7",
+        "size": "Approx. H270mm (including base)"
+      },
+      "details": {
+        "sculptor": "Design COCO",
+        "cooperation": "KOTOBUKIYA"
+      },
+      "copyright": "渡 航、小学館／やはりこの製作委員会はまちがっている。完"
+    },
+    {
+      "id": "8",
+      "name": "\"Girls' Frontline\" Suomi -Blissful Mission Ver.",
+      "fullName": "'Girls' Frontline' Suomi -Blissful Mission Ver.- 1/7 Complete Figure(Released)",
+      "jp_name": "『ドールズフロントライン』スオミ -幸せの使命 Ver.- 1/7 完成品フィギュア",
+      "imageUrl": "https://img.amiami.com/images/product/main/212/FIGURE-127067.jpg",
+      "category": "1",
+      "status": "Pre-order",
+      "company": "eStream",
+      "release_date": "Jul-2022",
+      "price": {
+        "jp_price": "26,950",
+        "us_price": "202.26"
+      },
+      "spec": {
+        "scale": "1/7",
+        "size": "H234mm x W212mm x D178mm"
+      },
+      "details": {
+        "sculptor": "Design COCO"
+      },
+      "copyright": "(C) SUNBORN Japan Co.， Ltd."
+    },
+    {
+      "id": "9",
+      "name": "KDcolle Date A Live III Kurumi Tokisaki White Cat",
+      "fullName": "KDcolle Date A Live III Kurumi Tokisaki White Cat Ver. 1/7 Complete Figure(Pre-order)",
+      "jp_name": "KDcolle デート・ア・ライブIII 時崎狂三 白猫Ver. 1/7 完成品フィギュア",
+      "imageUrl": "https://img.amiami.com/images/product/main/223/FIGURE-142597.jpg",
+      "category": "1",
+      "status": "Pre-order closed",
+      "company": "KADOKAWA",
+      "release_date": "～ Sep 04, 2022",
+      "price": {
+        "jp_price": "15,180",
+        "us_price": "113.93"
+      },
+      "spec": {
+        "scale": "1/7",
+        "size": "Approx. H245mm"
+      },
+      "details": {
+        "sculptor": "Fundoshi"
+      },
+      "copyright": "2019 橘公司・つなこ/KADOKAWA/「デート・ア・ライブIII」製作委員会"
+    },
+    {
+      "id": "10",
+      "name": "[Exclusive Sale] [Bonus] Uchi no Neko ga Onnanoko de Kawaii \"Kinako\"",
+      "fullName": "[Exclusive Sale] [Bonus] Uchi no Neko ga Onnanoko de Kawaii \"Kinako\" -Good Morning Ver.- 1/6 Complete Figure AmiAmi Limited Edition(Pre-order)",
+      "jp_name": "【限定販売】【特典】うちのねこが女の子でかわいい「きなこ」～おはようVer.～ 1/6 フィギュア あみあみ限定版",
+      "imageUrl": "https://img.amiami.com/images/product/main/222/FIGURE-140983.jpg",
+      "category": "1",
+      "status": "PRE-ORDER",
+      "company": "GOLDENHEAD",
+      "release_date": "Apr-2023",
+      "price": {
+        "jp_price": "18.980",
+        "us_price": "142.44"
+      },
+      "spec": {
+        "scale": "1/6",
+        "size": "Approx. H210mm (including base)"
+      },
+      "details": {
+        "sculptor": "Chizuru (Turunoyakata)"
+      },
+      "copyright": "40原"
+    },
+    {
+      "id": "11",
+      "name": "[Exclusive Sale] Fate/Grand Order Lancer/Ereshkigal",
+      "fullName": "[Exclusive Sale] Fate/Grand Order Lancer/Ereshkigal 1/7 Complete Figure(Released)",
+      "jp_name": "【限定販売】Fate/Grand Order ランサー/エレシュキガル 1/7 完成品フィギュア",
+      "imageUrl": "https://img.amiami.com/images/product/main/204/FIGURE-121279.jpg",
+      "category": "1",
+      "status": "PRE-ORDER",
+      "company": "Max Factory",
+      "release_date": "Jul-2022",
+      "price": {
+        "jp_price": "19.800",
+        "us_price": "148.60"
+      },
+      "spec": {
+        "scale": "1/7",
+        "size": "Approx. H270mm"
+      },
+      "details": {
+        "sculptor": "Hiroshi (Sakurazensen)"
+      },
+      "copyright": "TYPE-MOON / FGO PROJECT"
+    },
+    {
+      "id": "12",
+      "name": "KDcolle Re:ZERO -Starting Life in Another World- Ram & Rem",
+      "fullName": "KDcolle Re:ZERO -Starting Life in Another World- Ram & Rem Reindeer Maid Set 1/7 Complete Figure(Pre-order)",
+      "jp_name": "KDcolle Re：ゼロから始める異世界生活 ラム＆レム トナカイメイドセット 1/7 完成品フィギュア",
+      "imageUrl": "https://img.amiami.com/images/product/main/223/FIGURE-142633.jpg",
+      "category": "1",
+      "status": "PRE-ORDER CLOSED",
+      "company": "KADOKAWA",
+      "release_date": "Sep-2022",
+      "price": {
+        "jp_price": "39,710",
+        "us_price": "298.02"
+      },
+      "spec": {
+        "scale": "1/7",
+        "size": "Approx. 235mm / Rem: Approx. 245mm *Including Base for each"
+      },
+      "details": {
+        "sculptor": "Chizuru (Tsuru-no-yakata)"
+      },
+      "copyright": "Tappei Nagatsuki，KADOKAWA/Re：ZERO2 PARTNERS"
+    },
+    {
+      "id": "13",
+      "name": "[Exclusive Sale] THE IDOLM@STER SHINY COLORS Asahi Serizawa",
+      "fullName": "[Exclusive Sale] THE IDOLM@STER SHINY COLORS Asahi Serizawa Sora to Ao To Aitsu Ver. 1/7 Complete Figure(Pre-order)(Single Shipment)",
+      "jp_name": "【限定販売】アイドルマスター シャイニーカラーズ 芹沢あさひ 空と青とアイツVer. 1/7 完成品フィギュア",
+      "imageUrl": "https://img.amiami.com/images/product/main/223/FIGURE-141967.jpg",
+      "category": "1",
+      "status": "PRE-ORDER",
+      "company": "Alter",
+      "release_date": "Jul-2023",
+      "price": {
+        "jp_price": "36,080",
+        "us_price": "270.78"
+      },
+      "spec": {
+        "scale": "1/7",
+        "size": "Approx. 280mm (including base)"
+      },
+      "details": {
+        "sculptor": "Paintwork: Hiroyuki Tsumezuka"
+      },
+      "copyright": "THE IDOLM＠STER TM ＆ (C)Bandai Namco Entertainment Inc"
+    },
+    {
+      "id": "14",
+      "name": "Rent-A-Girlfriend Sumi Sakurasawa 1/7",
+      "fullName": "Rent-A-Girlfriend Sumi Sakurasawa 1/7 Complete Figure(Released)",
+      "jp_name": "彼女、お借りします 桜沢墨 1/7 完成品フィギュア",
+      "imageUrl": "https://img.amiami.com/images/product/main/221/FIGURE-136582.jpg",
+      "category": "1",
+      "status": "ORDER CLOSED",
+      "company": "Kotobukiya",
+      "release_date": "Jul-2022",
+      "price": {
+        "jp_price": "11,080",
+        "us_price": "83.16"
+      },
+      "spec": {
+        "scale": "1/7",
+        "size": "Approx. H120mm"
+      },
+      "details": {
+        "sculptor": "Kaoru Sakaki (Wonderful Works)"
+      },
+      "copyright": "宮島礼吏・講談社／「彼女、お借りします」製作委員会"
+    },
+    {
+      "id": "15",
+      "name": "[Exclusive Sale] Anime \"The Master of Diabolism\" Wei Wuxian & Lan Wangji",
+      "fullName": "[Exclusive Sale] Anime \"The Master of Diabolism\" Wei Wuxian & Lan Wangji Buxianxian Ver. 1/8 Complete Figures(Pre-order)(Single Shipment)",
+      "jp_name": "【限定販売】アニメ「魔道祖師」 魏無羨＆藍忘機 不羨仙Ver. 1/8 完成品",
+      "imageUrl": "https://img.amiami.com/images/product/main/223/FIGURE-143050.jpg",
+      "category": "1",
+      "status": "ORDER CLOSED",
+      "company": "Good Smile Arts Shanghai",
+      "release_date": "Dec-2023",
+      "price": {
+        "jp_price": "60,000",
+        "us_price": "450.30"
+      },
+      "spec": {
+        "scale": "1/8",
+        "size": "Approx. H315mm"
+      },
+      "details": {
+        "sculptor": "KAMUI"
+      },
+      "copyright": "Tencent. 腾讯公司版权所有"
+    },
+    {
+      "id": "16",
+      "name": "[Exclusive Sale] Precious G.E.M. Series Code Geass Re;surrection L.L.",
+      "fullName": "[Exclusive Sale] Precious G.E.M. Series Code Geass Re;surrection L.L. & C.C. Set Complete Figure(Released)(Single Shipment)",
+      "jp_name": "【限定販売】Precious G.E.M.シリーズ コードギアス 復活のルルーシュ L.L.＆C.C.セット 完成品フィギュア",
+      "imageUrl": "https://img.amiami.com/images/product/main/223/FIGURE-142544.jpg",
+      "category": "1",
+      "status": "Order Closed",
+      "company": "MegaHouse",
+      "price": {
+        "jp_price": "33,000",
+        "us_price": "247.66"
+      },
+      "spec": {
+        "size": " Approx. H245mm, C.C.: Approx. H220mm"
+      },
+      "details": {
+        "sculptor": "Denden"
+      },
+      "copyright": "SUNRISE/PROJECT L-GEASS Character Design (C)2006-2018 CLAMP・ST"
+    },
+    {
+      "id": "17",
+      "name": "Movie Masterpiece DIECAST 'RoboCop 3' 1/6 Robocop'",
+      "fullName": "Movie Masterpiece DIECAST 'RoboCop 3' 1/6 Robocop'(Provisional Pre-order)(Single Shipment)",
+      "jp_name": "ムービー・マスターピース DIECAST 『ロボコップ3』1/6 ロボコップ 延期前倒可能性大",
+      "imageUrl": "https://img.amiami.com/images/product/main/223/FIGURE-143279.jpg",
+      "category": "2",
+      "status": "PRE-ORDER",
+      "release_date": "Dec-2023",
+      "price": {
+        "jp_price": "54,000",
+        "us_price": "363.84"
+      },
+      "spec": {
+        "scale": "1/6",
+        "size": "Approx. H30cm"
+      },
+      "copyright": "ROBOCOP 3 TM ＆ (C) 1993 Orion Pictures Corporation. "
+    },
+    {
+      "id": "18",
+      "name": "Movie Masterpiece Spider-Man: No way...",
+      "fullName": "Movie Masterpiece Spider-Man: No Way Home Friendly Neighborhood Spider-Man (DX Ver.)(Provisional Pre-order)(Single Shipment)",
+      "jp_name": "ムービーマスターピース フレンドリー ネイバーフッド スパイダーマンDX版 延期前倒可能性大",
+      "imageUrl": "https://img.amiami.com/images/product/main/223/FIGURE-143284.jpg",
+      "category": "2",
+      "status": "PRE-ORDER",
+      "release_date": "Jan-2024",
+      "price": {
+        "jp_price": "65,000",
+        "us_price": "438.14"
+      },
+      "spec": {
+        "scale": "1/6",
+        "size": "Spider-Man : Approx. H30cm /Sandman: Approx. H19 x Approx. W21 x Approx.D 21cm"
+      },
+      "copyright": "2022 MARVEL (C) 2022 CPII"
+    },
+    {
+      "id": "20",
+      "name": "Movie Masterpiece DIECAST 'Iron Man' 1/6 Scale Figure Iron Man Mark. 3.",
+      "fullName": "Movie Masterpiece DIECAST 'Iron Man' 1/6 Scale Figure Iron Man Mark. 3 (2.0 Ver.)(Provisional Pre-order)(Single Shipment)",
+      "jp_name": "ムービー・マスターピース DIECAST 1/6 アイアンマン・マーク3 2.0版 ※延期前・倒可能性大",
+      "imageUrl": "https://img.amiami.com/images/product/main/223/FIGURE-143280.jpg",
+      "category": "2",
+      "status": "PRE-ORDER",
+      "release_date": "Dec-2023",
+      "price": {
+        "jp_price": "68,000",
+        "us_price": "457.65"
+      },
+      "spec": {
+        "scale": "1/6",
+        "size": "Approx. H33cm"
+      },
+      "copyright": "2022 MARVEL"
+    },
+    {
+      "id": "21",
+      "name": "Movie Masterpiece 'Thor: Love and Thunder' 1/6 Scale Figure Mighty Thor",
+      "fullName": "Movie Masterpiece 'Thor: Love and Thunder' 1/6 Scale Figure Mighty Thor(Provisional Pre-order)(Single Shipment)",
+      "jp_name": "ムービー・マスターピース 『ソー：ラブ＆サンダー』1/6 マイティ・ソー 延期・前倒可能性大",
+      "imageUrl": "https://img.amiami.com/images/product/main/223/FIGURE-143282.jpg",
+      "category": "2",
+      "status": "PRE-ORDER",
+      "release_date": "Jan-2024",
+      "price": {
+        "jp_price": "46,000",
+        "us_price": "309.81"
+      },
+      "spec": {
+        "scale": "1/6",
+        "size": "Approx. H29cm"
+      },
+      "copyright": "2022 MARVEL"
+    },
+    {
+      "id": "23",
+      "name": "GUILTY GEAR -STRIVE- Action Figure Sol Badguy",
+      "fullName": "GUILTY GEAR -STRIVE- Action Figure Sol Badguy(Provisional Pre-order)",
+      "jp_name": "GUILTY GEAR -STRIVE- アクションフィギュア ソル=バッドガイ",
+      "imageUrl": "https://img.amiami.com/images/product/main/223/FIGURE-143272.jpg",
+      "category": "2",
+      "status": "PRE-ORDER",
+      "release_date": "Mar-2023",
+      "price": {
+        "jp_price": "20,570",
+        "us_price": "135.84"
+      },
+      "spec": {
+        "scale": "1/8",
+        "size": "Approx. H184mm"
+      },
+      "details": {
+        "sculptor": "Hayashida Muneatsu"
+      },
+      "copyright": "ARC SYSTEM WORKS"
+    },
+    {
+      "id": "24",
+      "name": "Identity V Gardener Emma Woods Pre-painted Complete Figure",
+      "fullName": "Identity V Gardener Emma Woods Pre-painted Complete Figure(Provisional Pre-order)",
+      "jp_name": "Identity V 第五人格 庭師 エマ・ウッズ 塗装済み完成品フィギュア",
+      "imageUrl": "https://img.amiami.com/images/product/main/223/FIGURE-143265.jpg",
+      "category": "2",
+      "status": "PRE-ORDER",
+      "release_date": "Sep-2022",
+      "price": {
+        "jp_price": "5,500",
+        "us_price": "41.28"
+      },
+      "spec": {
+        "scale": "non-scale",
+        "size": "Approx. 17.3cm (non-scale)"
+      },
+      "details": {
+        "copyright": "1997-2021 NetEase，Inc.All Rights Reserved"
+      }
+    },
+    {
+      "id": "25",
+      "name": "Resident Evil / Nemesis Statue",
+      "fullName": "Resident Evil / Nemesis Statue(Provisional Pre-order)",
+      "jp_name": "バイオハザード/ ネメシス スタチュー",
+      "imageUrl": "https://img.amiami.com/images/product/main/223/FIGURE-143268.jpg",
+      "category": "2",
+      "status": "PRE-ORDER",
+      "release_date": "Dec-2022",
+      "price": {
+        "jp_price": "38,500",
+        "us_price": "280.24"
+      },
+      "spec": {
+        "scale": "non-scale",
+        "size": "Approx. H17cm"
+      }
+    },
+    {
+      "id": "26",
+      "name": "Movie Made in Abyss - Dawn of the Deep Soul..",
+      "fullName": ",Movie Made in Abyss - Dawn of the Deep Soul - The Sovereign of Dawn Bondrewd Complete Figure(Pre-order)",
+      "jp_name": "劇場版メイドインアビス-深き魂の黎明- 黎明卿ボンドルド 完成品フィギュア",
+      "imageUrl": "https://img.amiami.com/images/product/main/223/FIGURE-143041.jpg",
+      "category": "2",
+      "status": "PRE-ORDER",
+      "release_date": "Oct-2023  ",
+      "price": {
+        "jp_price": "32,780",
+        "us_price": "209.09"
+      },
+      "spec": {
+        "scale": "non-scaled",
+        "size": "Approx. H27cm"
+      },
+      "details": {
+        "sculptor": " Ikkei Jitsukata GEN"
+      },
+      "copyright": "つくしあきひと・竹書房／メイドインアビス「深き魂の黎明」製作委員会"
+    },
+    {
+      "id": "27",
+      "name": "Nendoroid \"FAIRY TAIL\" Final Series Lucy Heartfilia",
+      "fullName": "Nendoroid \"FAIRY TAIL\" Final Series Lucy Heartfilia(Pre-order)",
+      "jp_name": "ねんどろいど 「FAIRY TAIL」ファイナルシリーズ ルーシィ・ハートフィリア",
+      "imageUrl": "https://img.amiami.com/images/product/main/223/FIGURE-143374.jpg",
+      "category": "1",
+      "company": "Max Factory",
+      "status": "Pre-order",
+      "release_date": "Dec-2022",
+      "price": {
+        "jp_price": "7,050"
+      }
+    },
+    {
+      "id": "28",
+      "name": "Fate/Extra Nero Claudius & Tamamo no Mae TYPE-MOON Racing ver.",
+      "fullName": "Fate/Extra Nero Claudius & Tamamo no Mae TYPE-MOON Racing ver. 1/7 Complete Figures(Released)",
+      "jp_name": "Fate/Extra ネロ・クラウディウス＆玉藻の前 TYPE-MOON Racing ver. 1/7 完成品フィギュア",
+      "imageUrl": "https://img.amiami.com/images/product/main/203/FIGURE-611597.jpg",
+      "category": "1",
+      "company": "plusone",
+      "status": "Pre-order",
+      "release_date": "Dec-2022",
+      "price": {
+        "jp_price": "32,800"
+      }
+    }
+  ],
+  "users": [
+    {
+      "email": "eshirakayo@gmail.com",
+      "password": "$2a$10$fM3m2i9HnIaToN0j/nCJceZqOcfURliQs1rNZfvoXxN6peelOwh86",
+      "id": 1
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 18px;
+  padding-bottom: 10px;
+  margin-bottom: 5px;
+  background: rgba(0, 0, 0, 0) url('https://img.amiami.com/images/sitecontents/header/pc_header_e.png') no-repeat scroll left -20px top 0px;
+}
+
+
+
+.search {
+  display: flex;
+  width: 90%;
+  flex: 1;
+  justify-content: flex-end;
+}
+
+.menu {
+  margin-left: 100px;
+}
+
+.nav {
+  margin-bottom: 12px;
+  color: gray;
+
+  a {
+    position: relative;
+  }
+
+  a:not(:last-child) {
+    margin-right: 35px;
+  }
+}
+

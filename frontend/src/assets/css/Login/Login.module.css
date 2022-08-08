@@ -1,0 +1,39 @@
+.login-wrapper {
+  max-width: 600px;
+  margin: 0 auto;
+  padding-top: 100px;
+}
+
+.login-form {
+  @apply flex flex-col items-center justify-center;
+}
+
+.form {
+  margin-bottom: 30px;
+}
+
+.register-link p {
+  color: gray;
+  font-weight: 700;
+  margin-bottom: 20px;
+  text-align: center;
+}
+.register-link button {
+  padding: 18px 40px;
+  border: 1px solid #c6c6c6;
+  background: #f7f7f7;
+  font-weight: 700;
+  color: gray;
+}
+
+.form-title {
+  font-size: 25px;
+  text-align: left;
+  width: 100%;
+  font-weight: 700;
+  color: gray;
+  margin-bottom: 30px;
+  border-bottom: 1px solid gray;
+}
+
+/*# sourceMappingURL=Login.module.css.map */

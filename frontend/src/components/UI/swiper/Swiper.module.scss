@@ -1,0 +1,23 @@
+.swiper {
+  height: 100%;
+  width: 100%;
+
+  &_content {
+
+    img {
+      &:hover {
+        opacity: .7;
+      }
+    }
+  }
+
+  &_image {
+    display: block;
+    height: 100%;
+    cursor: pointer;
+  }
+}
+
+.custom_pag {
+  top: -10px;
+}
