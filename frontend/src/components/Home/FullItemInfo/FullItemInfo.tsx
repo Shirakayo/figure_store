@@ -13,13 +13,15 @@ const FullItemInfo: React.FC = () => {
   const dispatch = useAppDispatch()
   const navigate = useNavigate();
   const [itemInfo, setItemInfo] = useState<IItemInfo>();
-
+  console.log(itemInfo)
 
   const addItemToCart = () => {
     const item = {
-      name: itemInfo?.fullName,
+      id: itemInfo?.id,
+      name: itemInfo?.name,
+      imageUrl: itemInfo?.imageUrl,
       release_date: itemInfo?.release_date,
-      price: itemInfo?.price,
+      price: itemInfo?.price.jp_price,
       count: 0
     }
     // @ts-ignore

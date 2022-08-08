@@ -10,6 +10,7 @@
   font-size: 12px;
   font-weight: 600;
   color: #b3b3b3;
+  text-align: center;
 }
 
 .item-language {
@@ -31,6 +32,29 @@
 .header__menu-item {
   @apply flex justify-center flex-col items-center cursor-pointer hover:opacity-80;
   color: #b3b3b3;
+}
+.header__menu-item-cart {
+  position: relative;
+}
+
+.item-cart-badge {
+  position: absolute;
+  display: inline-block;
+  min-width: 12px;
+  height: 16px;
+  top: -4px;
+  left: 50%;
+  margin-left: 2px;
+  border-radius: 50%;
+  padding: 0 2px;
+  font-size: 11px;
+  font-weight: 700;
+  line-height: 160%;
+  text-align: center;
+  white-space: nowrap;
+  background: #f48c3e;
+  cursor: pointer;
+  color: #fff;
 }
 
 /*# sourceMappingURL=MenuList.module.css.map */

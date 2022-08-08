@@ -1,11 +1,17 @@
 .header {
   display: flex;
+  padding: 0 40px;
   align-items: center;
   justify-content: space-between;
   padding-top: 18px;
   padding-bottom: 10px;
   margin-bottom: 5px;
-  background: rgba(0, 0, 0, 0) url("https://img.amiami.com/images/sitecontents/header/pc_header_e.png") no-repeat scroll left -20px top 0;
+  background: rgba(0, 0, 0, 0) url("https://img.amiami.com/images/sitecontents/header/pc_header_e.png") no-repeat scroll left -20px top 0px;
+}
+
+.wrapper {
+  border-bottom: 1px solid #e5e5e5;
+  width: 100%;
 }
 
 .search {
@@ -22,6 +28,7 @@
 .nav {
   margin-bottom: 12px;
   color: gray;
+  padding: 0 40px;
 }
 .nav a {
   position: relative;

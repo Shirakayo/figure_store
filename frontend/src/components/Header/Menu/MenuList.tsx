@@ -16,7 +16,6 @@ const MenuList: React.FC = () => {
   const { items } = useSelector(selectCartItem);
   const dispatch = useAppDispatch();
 
-  console.log(items.length);
 
 
 

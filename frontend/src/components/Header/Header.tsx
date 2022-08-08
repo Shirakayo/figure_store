@@ -34,7 +34,7 @@ const Header: React.FC = () => {
   };
 
   return (
-    <div>
+    <div className={style.wrapper}>
       <header className={style.header}>
         <div className={style.logo}>
           <Logo />

@@ -1,0 +1,77 @@
+.wrapper {
+  max-width: 1350px;
+  padding-top: 30px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.title {
+  font-size: 25px;
+  font-weight: 700;
+  color: gray;
+  width: 100%;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.cart_outline_item {
+  display: flex;
+  justify-content: flex-end;
+  padding: 20px 0;
+  border-bottom: 1px solid #e5e5e5;
+}
+.cart_outline_item_title {
+  font-size: 20px;
+  color: gray;
+  font-weight: 700;
+  margin-right: 30px;
+}
+.cart_outline_item_total {
+  width: 120px;
+  font-size: 20px;
+  color: #f48c3e;
+  font-weight: 700;
+}
+.cart_outline_item_totalprice {
+  width: 120px;
+  font-size: 20px;
+  color: #f48c3e;
+  font-weight: 700;
+}
+.cart_outline_item_totalprice span {
+  font-size: 12px;
+}
+
+.button_wrapper {
+  padding: 15px 0;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.button_checkout {
+  position: relative;
+  background: #f48c3e;
+  color: white;
+  font-size: 20px;
+  font-weight: 700;
+  padding: 20px 60px;
+}
+.button_checkout:hover {
+  opacity: 0.9;
+}
+.button_checkout span {
+  padding-left: 40px;
+}
+.button_checkout::before {
+  position: absolute;
+  content: "";
+  background: url("https://www.amiami.com/images/common/icon_cart_wh.png") no-repeat;
+  width: 22px;
+  height: 22px;
+  top: 50%;
+  left: 53px;
+  margin-top: -12px;
+}
+
+/*# sourceMappingURL=Cart.module.css.map */
