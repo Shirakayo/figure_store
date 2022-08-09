@@ -28,5 +28,24 @@
   }
 }
 
+.disable {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  border-bottom: 1px solid gray;
 
+
+  button {
+    padding: 18px 120px;
+    margin-bottom: 30px;
+    color: white;
+    font-size: 20px;
+    background-color: gray;
+  }
+}
+
+.recaptcha {
+  display: flex;
+  justify-content: center;
+}
 

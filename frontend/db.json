@@ -551,12 +551,5 @@
         "jp_price": "32,800"
       }
     }
-  ],
-  "users": [
-    {
-      "email": "eshirakayo@gmail.com",
-      "password": "$2a$10$fM3m2i9HnIaToN0j/nCJceZqOcfURliQs1rNZfvoXxN6peelOwh86",
-      "id": 1
-    }
   ]
 }

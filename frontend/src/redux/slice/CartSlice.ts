@@ -28,7 +28,7 @@ export const CartSlice = createSlice({
     deleteCartItems(state, action:PayloadAction<ICartItem>) {
       const findItem = state.items.find((item) => item.id === action.payload.id)
       if (findItem) {
-        const price = (findItem.price).toString().replace(/,/g,'')
+        const price = (findItem.price).toString().replaceAll(',','')
         state.totalPrice -= Number(price) * findItem.count
       }
       state.items = state.items.filter(item =>

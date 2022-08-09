@@ -1,5 +1,10 @@
 .wrapper {
-  max-width: 1400px;
+  max-width: 1920px;
+  width: 100%;
+}
+
+.main {
+  flex-grow: 1;
 }
 
 .image {
@@ -14,7 +19,7 @@
 }
 
 .aside {
-  width: 260px;
+  width: 240px;
   color: gray;
   height: 100vh;
   position: relative;
@@ -24,7 +29,7 @@
   top: 0;
   right: -259px;
   width: 260px;
-  height: 515px;
+  height: 533px;
   background-color: white;
   box-shadow: 0 0 6px 1px rgba(0, 0, 0, 0.2);
   border-radius: 0 10px 10px 0;
@@ -58,6 +63,7 @@
   box-shadow: 0 0 6px 1px rgba(0, 0, 0, 0.2);
   border-radius: 6px;
   z-index: 5;
+  margin-bottom: 25px;
 }
 
 .aside_sublist {
@@ -71,7 +77,9 @@
 }
 
 .content-wrapper {
-  padding: 30px;
+  padding: 10px;
+  width: 100%;
+  flex-grow: 1;
 }
 
 .title {
@@ -116,6 +124,96 @@
 .itemfind small {
   font-weight: 400;
   font-size: 14px;
+}
+
+.social {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  max-width: 200px;
+  font-size: 16px;
+}
+.social_facebook {
+  color: white;
+  position: relative;
+  padding: 16px 20px 16px 50px;
+  background: #4e71a8;
+}
+.social_facebook::before {
+  content: "";
+  position: absolute;
+  width: 11px;
+  height: 24px;
+  top: 50%;
+  left: 26px;
+  margin-top: -12px;
+  background: url("https://www.amiami.com/images/common/icon_facebook.png") no-repeat 0/11px auto;
+}
+.social_twitter {
+  color: white;
+  position: relative;
+  padding: 16px 20px 16px 50px;
+  background: #55acee;
+}
+.social_twitter::before {
+  content: "";
+  position: absolute;
+  width: 14px;
+  height: 24px;
+  top: 50%;
+  left: 26px;
+  margin-top: -12px;
+  background: url("https://www.amiami.com/images/common/icon_twitter.png") no-repeat 0/11px auto;
+}
+.social_twitter_korean {
+  color: white;
+  position: relative;
+  padding: 8px 20px 8px 50px;
+  background: #55acee;
+}
+.social_twitter_korean::before {
+  content: "";
+  position: absolute;
+  width: 11px;
+  height: 24px;
+  top: 50%;
+  left: 26px;
+  margin-top: -12px;
+  background: url("https://www.amiami.com/images/common/icon_twitter.png") no-repeat 0/11px auto;
+}
+.social_china {
+  color: #e92b2a;
+  position: relative;
+  padding: 19px 20px 19px 50px;
+  border: 1px solid red;
+  background: white;
+}
+.social_china::before {
+  content: "";
+  position: absolute;
+  width: 11px;
+  height: 24px;
+  top: 50%;
+  left: 26px;
+  margin-top: -12px;
+  background: url("https://www.amiami.com/images/common/icon_sns_weibo.png") no-repeat 0/11px auto;
+}
+.social_instagram {
+  color: #fd0001;
+  position: relative;
+  padding: 19px 20px 19px 50px;
+  border: 1px solid red;
+  background: white;
+}
+.social_instagram::before {
+  content: "";
+  position: absolute;
+  width: 11px;
+  height: 24px;
+  top: 50%;
+  left: 26px;
+  margin-top: -12px;
+  background: url("https://www.amiami.com/images/common/icon_sns_instagram.png") no-repeat 0/11px auto;
 }
 
 /*# sourceMappingURL=Home.module.css.map */

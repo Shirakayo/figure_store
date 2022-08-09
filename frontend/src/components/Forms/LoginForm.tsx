@@ -1,4 +1,4 @@
-import React, {useEffect} from "react";
+import React, {useEffect, useState} from "react";
 import style from "./LoginForm.module.scss";
 import { SubmitHandler, useForm } from "react-hook-form";
 import { IShippingField } from "../../types/app.interface";
@@ -6,9 +6,10 @@ import {useAppDispatch} from "../../redux/store";
 import {fetchLogin, loginSuccess, selectStatus} from "../../redux/slice/UserSlice";
 import {useNavigate} from "react-router-dom";
 import { useSelector } from "react-redux";
-import Loader from "../UI/loader/Loader";
+import ReCAPTCHA from "react-google-recaptcha";
 
 const LoginForm: React.FC = () => {
+  const [verified, setVerified] = useState(false);
   const status = useSelector(selectStatus)
   const dispatch = useAppDispatch()
   const navigate = useNavigate()
@@ -38,10 +39,7 @@ const LoginForm: React.FC = () => {
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [status])
-
-  if (status === 'PENDING') {
-    return <Loader />
-  }
+  
 
   return (
     <form onSubmit={handleSubmit(onSubmit)}>
@@ -92,8 +90,13 @@ const LoginForm: React.FC = () => {
           )}
         </div>
       </div>
-      <div className={style["form-button"]}>
-        <button>Log in</button>
+      <ReCAPTCHA
+        className={style.recaptcha}
+        sitekey="6LeIxAcTAAAAAJcZVRqyHh71UMIEGNQ_MXjiZKhI"
+        onChange={() => setVerified(true)}
+      />,
+      <div className={verified ? style["form-button"] : style.disable}>
+        <button disabled={!verified}>Log in</button>
       </div>
     </form>
   );

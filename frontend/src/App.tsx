@@ -7,6 +7,7 @@ import { Provider } from "react-redux";
 import { store } from "./redux/store";
 import Aside from "./components/Home/Aside/Aside";
 import ContentLayout from "./components/UI/layout/ContentLayout"
+import SubAside from "./components/Home/SubAside/SubAside";
 
 
 
@@ -19,6 +20,7 @@ const App: React.FC = () => {
           <ContentLayout>
             <Aside />
             <AppRouting />
+            <SubAside />
           </ContentLayout>
         </Layout>
       </BrowserRouter>

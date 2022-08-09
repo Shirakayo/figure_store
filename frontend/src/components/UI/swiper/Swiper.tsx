@@ -13,7 +13,7 @@ const MySwiper: React.FC = React.memo(() => {
   return (
     <Swiper
       modules={[Pagination, EffectFade, Autoplay]}
-      spaceBetween={-200}
+      spaceBetween={-750}
       slidesPerView={1.5}
       centeredSlides={true}
       speed={600}

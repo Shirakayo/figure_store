@@ -41,7 +41,7 @@ const Home: React.FC = () => {
   }
 
   return (
-    <main>
+    <main className={style.main}>
       <div className={style.wrapper}>
         <div className={style["content-wrapper"]}>
           <InfoContent newsItems={newsItems} />

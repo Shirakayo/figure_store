@@ -59,6 +59,13 @@ const Aside: React.FC = () => {
                     <li>New Products</li>
                 </ul>
             </div>
+            <div className={style.social}>
+                <a className={style.social_facebook}  href="https://www.facebook.com/AmiAmiEnglish/" rel="noreferrer" target={'_blank'}>AmiAmi Facebook</a>
+                <a className={style.social_twitter} href="https://twitter.com/amiami_english/" rel="noreferrer" target={'_blank'}>AmiAmi Twitter</a>
+                <a className={style.social_twitter_korean} href="https://twitter.com/AmiAmi_Korea" rel="noreferrer" target={'_blank'}> AmiAmi Twitter Korean</a>
+                <a className={style.social_china} href="https://www.weibo.com/amiamichina/" rel="noreferrer" target={'_blank'}>amiami china</a>
+                <a className={style.social_instagram} href="https://www.instagram.com/amiami_global" rel="noreferrer" target={'_blank'}>amiami instagram</a>
+            </div>
         </aside>
     );
 };
