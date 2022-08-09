@@ -1,0 +1,35 @@
+.wrapper {
+  max-width: 1400px;
+  padding: 20px 10px;
+}
+
+.content {
+  display: grid;
+  grid-template-columns: repeat(3, 500px);
+  grid-auto-flow: row;
+  column-gap: 30px;
+}
+
+.title {
+  font-size: 24px;
+  color: #979696;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.category_block {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  border-bottom: 1px solid #DFDFDF;
+  border-top: 1px solid #DFDFDF;
+  padding: 10px 0;
+  height: fit-content;
+}
+.category_block_title {
+  display: flex;
+  gap: 3px;
+  align-items: center;
+}
+
+/*# sourceMappingURL=CategoryList.module.css.map */

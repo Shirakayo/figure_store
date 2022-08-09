@@ -1,0 +1,18 @@
+.swiper {
+  height: 100%;
+  width: 100%;
+}
+.swiper_content img:hover {
+  opacity: 0.7;
+}
+.swiper_image {
+  display: block;
+  height: 100%;
+  cursor: pointer;
+}
+
+.custom_pag {
+  top: -10px;
+}
+
+/*# sourceMappingURL=Swiper.module.css.map */

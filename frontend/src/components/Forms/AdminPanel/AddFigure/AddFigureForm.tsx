@@ -92,7 +92,7 @@ const AddFigureForm: React.FC<ModalProps> = ({modalActive, setModalActive}) => {
           label="Enter release-date"
         />
         <TextField
-          type="text"
+          type="number"
           {...register("price", { required: true })}
           label="Enter price"
         />

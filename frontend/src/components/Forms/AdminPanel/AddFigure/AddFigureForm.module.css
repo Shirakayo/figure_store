@@ -1,0 +1,10 @@
+.modal_form {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.modal_form h2 {
+  border-bottom: 1px solid black;
+}
+
+/*# sourceMappingURL=AddFigureForm.module.css.map */

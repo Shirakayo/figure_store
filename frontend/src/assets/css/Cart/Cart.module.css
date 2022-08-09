@@ -74,4 +74,12 @@
   margin-top: -12px;
 }
 
+.empty_cart {
+  text-align: center;
+  font-size: 30px;
+  font-weight: 700;
+  color: gray;
+  padding: 30px;
+}
+
 /*# sourceMappingURL=Cart.module.css.map */

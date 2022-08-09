@@ -1,0 +1,108 @@
+.wrapper {
+  padding: 25px 40px 0;
+  display: flex;
+  gap: 45px;
+  color: rgb(128, 128, 128);
+}
+.wrapper_info {
+  display: flex;
+  gap: 40px;
+  margin-left: 100px;
+}
+
+.aside_category {
+  display: flex;
+  flex-direction: column;
+  font-size: 18px;
+  font-weight: 700;
+}
+.aside_category a {
+  font-weight: 600;
+  font-size: 18px;
+}
+
+.aside {
+  width: 280px;
+}
+.aside_back {
+  font-weight: 400;
+  font-size: 20px;
+}
+.aside_back :hover {
+  opacity: 0.8;
+}
+
+.information_status {
+  margin-bottom: 20px;
+}
+.information_status span {
+  border: 1px solid rgba(128, 128, 128, 0.7);
+  border-left: 4px solid orange;
+  padding: 2px;
+  opacity: 0.7;
+}
+.information_title {
+  width: 100%;
+  font-size: 27px;
+  word-wrap: break-word;
+  color: gray;
+  margin-bottom: 20px;
+}
+.information_jptitle {
+  opacity: 0.9;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+.information_company {
+  display: block;
+  font-size: 16px;
+  color: rgba(128, 128, 128, 0.9);
+  margin-bottom: 30px;
+}
+.information_price {
+  font-weight: 600;
+  color: #F38029;
+  font-size: 35px;
+}
+.information_price span {
+  font-size: 20px;
+}
+.information_convertprice {
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+.information_convertprice select {
+  border-radius: 3px;
+  margin: 0 4px;
+  color: black;
+  font-size: 10px;
+  padding: 3px;
+  border: 1px solid black;
+}
+.information_release {
+  margin-bottom: 25px;
+}
+.information_release span {
+  color: #808080;
+  font-weight: 700;
+}
+.information_quantity {
+  padding: 10px 40px;
+  margin-right: 10px;
+  font-size: 18px;
+  border: 1px solid rgba(128, 128, 128, 0.7);
+  background-color: transparent;
+}
+.information_button img {
+  width: 20px;
+}
+.information_button button {
+  display: flex;
+  gap: 20px;
+  padding: 10px 80px;
+  background: #f38029;
+  color: white;
+  font-weight: 600;
+}
+
+/*# sourceMappingURL=FullItemInfo.module.css.map */

@@ -1,0 +1,23 @@
+.modal {
+  @apply h-full w-full bg-black bg-opacity-40 fixed top-0 left-0 flex items-center justify-center;
+  opacity: 0;
+  pointer-events: none;
+  transition: 0.5s;
+}
+
+.active {
+  opacity: 1;
+  pointer-events: all;
+}
+
+.content {
+  @apply p-10 rounded-xl bg-white;
+  transform: scale(0.5);
+  transition: 0.4s all;
+}
+
+.content_active {
+  transform: scale(1);
+}
+
+/*# sourceMappingURL=Modal.module.css.map */

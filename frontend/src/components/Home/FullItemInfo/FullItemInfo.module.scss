@@ -1,5 +1,5 @@
 .wrapper {
-  padding-top: 50px;
+  padding: 25px 40px 0;
   display: flex;
   gap: 45px;
   color: rgb(128, 128, 128);
@@ -15,11 +15,11 @@
 .aside_category {
   display: flex;
   flex-direction: column;
-  font-size: 24px;
+  font-size: 18px;
   font-weight: 700;
 
   a {
-    font-weight: 400;
+    font-weight: 600;
     font-size: 18px;
   }
 }
@@ -27,9 +27,8 @@
 .aside {
   width: 280px;
   &_back {
-    font-weight: 600;
-    font-size: 24px;
-    color: #F38029;
+    font-weight: 400;
+    font-size: 20px;
 
     :hover {
       opacity: .8;

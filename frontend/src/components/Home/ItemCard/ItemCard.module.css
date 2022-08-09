@@ -1,0 +1,41 @@
+.item {
+  height: 280px;
+}
+.item:hover {
+  opacity: 0.8;
+}
+.item_image {
+  max-width: 150px;
+  max-height: 150px;
+  margin-bottom: 5px;
+}
+.item_status {
+  font-size: 10px;
+  margin-bottom: 5px;
+  width: 100%;
+}
+.item_status li {
+  border: 1px solid gray;
+  border-left: 2px solid orange;
+  padding: 0 2px;
+  color: gray;
+  max-width: max-content;
+}
+.item_title {
+  max-width: 150px;
+  color: gray;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+.item_price {
+  color: orange;
+  font-weight: 600;
+  font-size: 18px;
+}
+.item_price span {
+  font-weight: 400;
+  margin-left: 5px;
+  font-size: 12px;
+}
+
+/*# sourceMappingURL=ItemCard.module.css.map */
