@@ -1,10 +1,9 @@
 import React, {useCallback} from "react";
 import style from "../../../assets/css/Home/Home.module.scss";
-import {useDispatch} from "react-redux";
-import {selectCategory} from "../../../redux/slice/ItemFilter";
+import {useDispatch, useSelector} from "react-redux";
+import {selectCategory, selectFilter} from "../../../redux/slice/ItemFilter";
 import { useLocation } from "react-router-dom";
 import { HOME_ROUTE } from "../../../utils/const";
-import {ICategoryProps} from "../../../types/StoreItem/store-item-type";
 
 const filterList = [
   "All Items",
@@ -14,7 +13,9 @@ const filterList = [
   "News",
 ];
 
-const CategoryLine: React.FC<ICategoryProps> = ({category}) => {
+const CategoryLine: React.FC = () => {
+  const { category } = useSelector(selectFilter);
+
   const dispatch = useDispatch();
   const location = useLocation();
 

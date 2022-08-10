@@ -13,7 +13,6 @@ const Aside: React.FC = () => {
     const [dropDownVisible, setDropDownVisible] = useState<boolean>(false);
     const location = useLocation()
     const ref = useRef<HTMLUListElement>(null)
-    console.log(location)
 
 
 

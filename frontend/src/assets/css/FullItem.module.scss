@@ -1,0 +1,15 @@
+.content_wrapper {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(50px, 150px));
+  grid-template-rows: repeat(auto-fit, minmax(200px, 280px));
+  grid-column-gap: 20px;
+  grid-row-gap: 20px;
+}
+
+.loader {
+  width: 100%;
+  padding-top: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

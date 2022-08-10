@@ -11,12 +11,6 @@
   width: 30px;
 }
 
-.loader {
-  width: 100%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
 
 
 .aside {
@@ -110,11 +104,8 @@
 }
 
 .content {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(50px, 150px));
-  grid-template-rows: repeat(auto-fit, minmax(200px, 280px));
-  grid-column-gap: 20px;
-  grid-row-gap: 20px;
+  display: flex;
+  flex-direction: column;
 
   &-swiper {
     height: 250px;

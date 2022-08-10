@@ -68,8 +68,8 @@ const SubAside: React.FC = () => {
         <>
             {location.pathname === HOME_ROUTE &&<aside>
                 <ul className={style.wrapper}>
-                    {subAsideContent.map(item =>
-                        <li>
+                    {subAsideContent.map((item, index) =>
+                        <li key={index}>
                             <a href={item.link}>
                                 <img src={item.image_url} alt="post"/>
                             </a>

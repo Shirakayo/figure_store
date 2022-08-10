@@ -1,4 +1,12 @@
 .select {
-  max-width: 50px;
-  background-color: #e6e2e2;
+  max-width: 55px;
+  background: #C7C7C7;
+  width: 100%;
+  border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+
+  option {
+    background-color: #2f2f2f;
+    color: white;
+  }
 }

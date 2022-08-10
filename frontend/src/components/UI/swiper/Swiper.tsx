@@ -23,7 +23,7 @@ const MySwiper: React.FC = React.memo(() => {
           slidesPerView: 1,
         },
         1900: {
-          spaceBetween: -130
+          spaceBetween: -150
         },
         2500: {
           spaceBetween: -750
