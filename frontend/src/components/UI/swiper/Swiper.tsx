@@ -13,6 +13,22 @@ const MySwiper: React.FC = React.memo(() => {
   return (
     <Swiper
       modules={[Pagination, EffectFade, Autoplay]}
+      breakpoints={{
+        576: {
+          width: 576,
+          slidesPerView: 2,
+        },
+        768: {
+          width: 768,
+          slidesPerView: 1,
+        },
+        1900: {
+          spaceBetween: -130
+        },
+        2500: {
+          spaceBetween: -750
+        }
+      }}
       spaceBetween={-750}
       slidesPerView={1.5}
       centeredSlides={true}

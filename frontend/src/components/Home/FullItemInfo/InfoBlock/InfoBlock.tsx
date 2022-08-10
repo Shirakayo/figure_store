@@ -1,4 +1,4 @@
-import React from "react";
+import React, {useState} from "react";
 import style from "../FullItemInfo.module.scss";
 import { IItemInfo } from "../../../../types/StoreItem/store-item-type";
 
@@ -7,7 +7,30 @@ interface IPropsItemInfo {
   addItemToCart: () => void
 }
 
+const currencyChange = [
+  {
+    title: 'usd',
+    changes: 130
+  },
+  {
+    title: 'aud',
+    changes: 93.4
+  },
+  {
+    title: 'cad',
+    changes: 104.4
+  }
+]
+
+
+
+
 const InfoBlock: React.FC<IPropsItemInfo> = ({ itemInfo, addItemToCart }) => {
+  const [value, setValue] = useState('');
+  const setChange = currencyChange.find(item => value === item.title)
+  const price = Number((itemInfo?.price.jp_price)?.replaceAll(',', ''))
+
+
   return (
     <div>
       <div className={style.information}>
@@ -22,12 +45,11 @@ const InfoBlock: React.FC<IPropsItemInfo> = ({ itemInfo, addItemToCart }) => {
           <span>JPY</span>
         </div>
         <div className={style.information_convertprice}>
-          (appx. {itemInfo?.price.jp_price})
-          <select>
+          (appx. {Math.round(price / (setChange ? setChange.changes : 130))})
+          <select onChange={e => setValue(e.target.value)}>
             <option value="usd">USD</option>
             <option value="aud">AUD</option>
             <option value="cad">CAD</option>
-            <option value="krw">KRW</option>
           </select>
           )
         </div>
@@ -37,7 +59,7 @@ const InfoBlock: React.FC<IPropsItemInfo> = ({ itemInfo, addItemToCart }) => {
         </div>
         <div className="flex ">
           <select className={style.information_quantity} name="quantity" id="">
-            <option value="1">1</option>
+            <option  value="1">1</option>
             <option value="2">2</option>
             <option value="3">3</option>
           </select>
